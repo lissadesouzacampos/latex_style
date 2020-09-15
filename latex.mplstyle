@@ -1,0 +1,24 @@
+############################################# LaTeX fonts:
+text.usetex        : True
+font.family        : serif
+font.serif         : Computer Modern Roman
+text.latex.preamble : \usepackage{amssymb}
+
+############################################# Axes:
+axes.titlesize : 16
+axes.labelsize : 20
+lines.linewidth : 1
+lines.markersize : 4
+xtick.labelsize : 16
+ytick.labelsize : 16
+axes.labelpad : 10
+
+############################################# Grid:
+axes.grid: True
+grid.color:  lightgray
+grid.linestyle: --
+grid.linewidth: 1
+
+
+############################################# To save it without cropping:
+savefig.bbox: tight
