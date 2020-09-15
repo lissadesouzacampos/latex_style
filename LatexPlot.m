@@ -4,7 +4,7 @@ BeginPackage["LatexPlot`"];
 
 
 Needs["MaTeX`"]
-Get["C:\\Users\\Lissa\\Google Drive\\Wolfram Mathematica\\OthersPackages\\CustomTicks-2.1.0\\CustomTicks.m"]
+Get["CustomTicks.m"]
 
 
 (* ::Section:: *)
